@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FlowLayout extends ViewGroup {
-
+//测试提交网速
     private int mHorizontalSpacing = 16;//统一的水平间距
     private int mVerticalSpacing = 16;//统一的垂直间距
     private List<List<View>> allLines;//记录所有行，一行一行的存储，用于onLayout
